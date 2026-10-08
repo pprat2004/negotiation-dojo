@@ -1,0 +1,12 @@
+{
+  "id": "salary",
+  "order": 1,
+  "label": "Salary negotiation",
+  "emoji": "💼",
+  "counterpart_role": "a hiring manager / HR lead at a technology company",
+  "user_role": "a candidate negotiating a job offer",
+  "default_goal": "Get a base salary of ₹12 LPA for a software role, offered ₹9 LPA",
+  "default_context": "I have a competing offer, strong internship experience and market data showing ₹11-13 LPA for this role.",
+  "opening_hint": "Welcome the candidate warmly, restate the offer and its figure, and signal that it is competitive.",
+  "knowledge_file": "salary_tactics.md"
+}

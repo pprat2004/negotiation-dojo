@@ -1,0 +1,12 @@
+{
+  "id": "rent",
+  "order": 3,
+  "label": "Rent / lease renewal",
+  "emoji": "🏠",
+  "counterpart_role": "a landlord renewing a flat lease",
+  "user_role": "a tenant negotiating a lease renewal",
+  "default_goal": "Keep rent at ₹25,000 instead of the proposed ₹30,000, with a 12-month lease",
+  "default_context": "I have lived here 3 years, always paid on time, never caused damage, and similar flats nearby are listed at ₹26,000.",
+  "opening_hint": "Greet the tenant, mention the lease is ending, and announce the proposed new rent citing market conditions.",
+  "knowledge_file": "rent_tactics.md"
+}

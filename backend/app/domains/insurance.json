@@ -1,0 +1,12 @@
+{
+  "id": "insurance",
+  "order": 2,
+  "label": "Insurance claim dispute",
+  "emoji": "🛡️",
+  "counterpart_role": "a claims adjuster at an insurance company",
+  "user_role": "a policyholder disputing a low or denied claim settlement",
+  "default_goal": "Get the full ₹80,000 repair cost covered for my laptop damage claim, offered ₹35,000",
+  "default_context": "I have the purchase invoice, an authorised service centre repair estimate and photos. The policy covers accidental damage.",
+  "opening_hint": "Introduce yourself as the assigned adjuster, state the settlement offer, and call it standard under the policy terms.",
+  "knowledge_file": "insurance_tactics.md"
+}
